@@ -1,31 +1,31 @@
-Chính Sách Quyền Riêng Tư cho Ứng Dụng [Tên Ứng Dụng]
+Login Bot Application Privacy Policy
 
-Chúng tôi tôn trọng quyền riêng tư của bạn và cam kết bảo vệ thông tin cá nhân của bạn. Chính sách này mô tả cách chúng tôi thu thập, sử dụng và bảo vệ thông tin cá nhân khi bạn sử dụng ứng dụng của chúng tôi.
+We respect your privacy and are committed to protecting your personal information. This policy describes how we collect, use and protect personal information when you use our applications.
 
-1. Thông Tin Thu Thập
+1. Information Collected
 
-Khi bạn sử dụng ứng dụng của chúng tôi, chúng tôi có thể thu thập một số thông tin cá nhân cơ bản, bao gồm tên, ảnh đại diện và địa chỉ email. Chúng tôi chỉ thu thập thông tin này khi bạn cung cấp cho chúng tôi hoặc khi bạn đăng nhập vào ứng dụng bằng tài khoản Facebook.
+When you use our apps, we may collect some basic personal information, including your name, profile picture, and email address. We only collect this information when you provide it to us or when you log into the app with your Facebook account.
 
-2. Sử Dụng Thông Tin
+2. Use of Information
 
-Chúng tôi sử dụng thông tin cá nhân mà chúng tôi thu thập để cung cấp các dịch vụ và chức năng trong ứng dụng của chúng tôi. Thông tin của bạn có thể được sử dụng để hiển thị tên và ảnh đại diện trong ứng dụng.
+We use the personal information we collect to provide services and functionality in our apps. Your information may be used to display your name and profile picture in the app.
 
-3. Bảo Mật Thông Tin
+3. Information Security
 
-Chúng tôi cam kết bảo mật thông tin cá nhân của bạn và sử dụng các biện pháp bảo mật phù hợp để ngăn chặn truy cập trái phép hoặc sử dụng sai mục đích thông tin cá nhân.
+We are committed to the security of your personal information and use appropriate security measures to prevent unauthorized access or misuse of personal information.
 
-4. Chia Sẻ Thông Tin
+4. Information Sharing
 
-Chúng tôi không chia sẻ, bán hoặc thuê thông tin cá nhân của bạn cho bất kỳ bên thứ ba nào mà không có sự đồng ý rõ ràng từ bạn.
+We do not share, sell or rent your personal information to any third parties without your express consent.
 
-5. Liên Kết Tài Khoản Facebook
+5. Facebook Account Link
 
-Việc liên kết tài khoản Facebook của bạn với ứng dụng của chúng tôi là tùy chọn. Nếu bạn không muốn liên kết, bạn vẫn có thể sử dụng ứng dụng của chúng tôi mà không cần thông tin từ tài khoản Facebook.
+Linking your Facebook account to our app is optional. If you don't want the link, you can still use our app without information from your Facebook account.
 
-6. Liên Hệ Chúng Tôi
+6. Contact Us
 
-Nếu bạn có bất kỳ câu hỏi hoặc phản ánh nào liên quan đến chính sách quyền riêng tư của chúng tôi, vui lòng liên hệ với chúng tôi qua địa chỉ [địa chỉ email liên hệ].
+If you have any questions or comments regarding our privacy policy, please contact us at [contact email address].
 
-Chính sách quyền riêng tư này có thể được cập nhật và chúng tôi sẽ thông báo về bất kỳ thay đổi nào trong ứng dụng hoặc trang web của chúng tôi.
+This Privacy Policy may be updated and we will notify you of any changes in our app or website.
 
-Ngày [Ngày tháng năm]
+August 25, 2023
